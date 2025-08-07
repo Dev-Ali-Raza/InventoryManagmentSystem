@@ -28,12 +28,5 @@ A desktop-based inventory tracking solution built using **C# WinForms** and **SQ
 
 ---
 
-## 🖼️ Screenshots
-
-> Add your actual screenshots in the `images/` folder
-
-| Dashboard | Stock Entry | Reports |
-|----------|-------------|---------|
-| ![](images/dashboard.png) | ![](images/stock-in.png) | ![](images/report.png) |
 
 ---
